@@ -34,6 +34,7 @@
 		52598EB41C47341400150706 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE.txt; path = ../LICENSE.txt; sourceTree = "<group>"; };
 		52598EB51C47341400150706 /* Package.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Package.swift; path = ../Package.swift; sourceTree = "<group>"; };
 		52598EB61C47341400150706 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		52598EBB1C4743D700150706 /* HttpBasicAuth.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = HttpBasicAuth.podspec; path = ../HttpBasicAuth.podspec; sourceTree = "<group>"; };
 		52723CB21C46E33800F9B654 /* HttpBasicAuth.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HttpBasicAuth.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		52723CB51C46E33800F9B654 /* HttpBasicAuth.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HttpBasicAuth.h; sourceTree = "<group>"; };
 		52723CB71C46E33800F9B654 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -63,6 +64,7 @@
 		52723CA81C46E33800F9B654 = {
 			isa = PBXGroup;
 			children = (
+				52598EBB1C4743D700150706 /* HttpBasicAuth.podspec */,
 				52598EB31C47341400150706 /* CHANGELOG.md */,
 				52598EB41C47341400150706 /* LICENSE.txt */,
 				52598EB51C47341400150706 /* Package.swift */,

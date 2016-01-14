@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   spec.version = '0.1.0'
   spec.summary = 'Generic basic http auth Authorization header field parser for swift.'
   spec.homepage = 'https://github.com/jjb3rd/HttpBasicAuth'
-  spec.license = { :type => 'MIT', :file => 'LICENSE.md' }
+  spec.license = { :type => 'MIT', :file => 'LICENSE.txt' }
   spec.author = { 'John Becker' => 'john@beckersoft.com' }
   spec.source = { :git => 'https://github.com/jjb3rd/HttpBasicAuth.git', :tag => "#{spec.version}" }
   spec.source_files = 'Sources/*.swift'

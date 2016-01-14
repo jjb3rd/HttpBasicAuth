@@ -5,5 +5,5 @@ before_install:
 - gem install xcpretty --no-document
 script:
 - set -o pipefail
-- xcodebuild -project Xcode/HttpBasicAuth.xcodeproj -scheme HttpBasicAuth test -sdk macosx | xcpretty -c
+- xcodebuild -workspace Xcode/HttpBasicAuth.xcworkspace -scheme HttpBasicAuth test -sdk macosx | xcpretty -c
 - pod lib lint
