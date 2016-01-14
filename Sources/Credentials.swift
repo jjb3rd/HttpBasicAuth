@@ -15,8 +15,8 @@
 public struct Credentials {
     
     /// The username
-    let username:String
+    public let username:String
     
     /// The password
-    let password:String
+    public let password:String
 }
