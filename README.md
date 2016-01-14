@@ -14,7 +14,7 @@ import PackageDescription
 let package = Package(
   name: "AwesomeProject",
   dependencies: [
-    .Package(url: "https://github.com/jjb3rd/HttpBasicAuth", majorVersion: 0, minor: 1)
+    .Package(url: "https://github.com/jjb3rd/HttpBasicAuth", versions: Version(0,1,1)..<Version(0,2,0))
   ]
 )
 ```
