@@ -1,6 +1,7 @@
 # HttpBasicAuth
 
 [![Swift 2.2](https://img.shields.io/badge/Swift-2.2-orange.svg?style=flat)](https://swift.org)
+[![Build Status](https://travis-ci.org/jjb3rd/HttpBasicAuth.svg)](https://travis-ci.org/jjb3rd/HttpBasicAuth)
 [![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 
 Generic basic auth Authorization header field parser for swift.  
